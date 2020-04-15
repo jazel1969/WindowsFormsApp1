@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
             Application.Run(new Form1());
 
             // 1-st comment
-
+            // 2-nd comment
         }
     }
 }
