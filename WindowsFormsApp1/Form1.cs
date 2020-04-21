@@ -42,6 +42,7 @@ namespace WindowsFormsApp1
             
             textBox2.Text = "Czesc MaGDA";
 
+
         }
     }
 }
