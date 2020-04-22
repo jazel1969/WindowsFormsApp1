@@ -9,6 +9,7 @@ namespace WindowsFormsApp1
     static class Program
     {
         /// <summary>
+        /// hello world
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
